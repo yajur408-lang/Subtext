@@ -1,0 +1,9 @@
+To run a streamlit file 
+
+Go to Cmd or terminal and write:
+
+streamlit run file name 
+
+Or you can run by the path which will be like:
+
+python -m streamlit run path of the file
