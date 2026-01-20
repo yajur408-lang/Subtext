@@ -1,0 +1,2 @@
+<h1>How to Run Streamlit using File path </h1>
+<p> to run a streamlit file using file path first open your cmd, then write python -m streamlit run "path of file"</p>
