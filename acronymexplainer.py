@@ -1,7 +1,7 @@
 from google import genai
 import streamlit as st
 
-API_KEY =   # replace with your actual API key
+API_KEY = ""  # replace with your actual API key
 MODEL = "gemini-2.5-flash"  # valid Gemini model
 
 st.title("Acronym and Tone Explainer")
@@ -34,3 +34,4 @@ def ask_gemini():
         st.error(f"Server down or API error: {e}")
 
 ask_gemini()
+
